@@ -14,8 +14,8 @@ Building practical AI-powered applications, backend APIs, and RAG systems with P
   </a>
 </p>
 
-<h3><strong>👨‍💻 About Me</strong></h3>
-<hr style="border: none; height: 2px; background-color: #333;">
+<h3>👨‍💻 <strong>About Me</strong></h3>
+
 🐍 Focused on Python backend development and AI engineering
 
 🤖 Building applications with LLMs, RAG, and AI-powered workflows
@@ -32,7 +32,7 @@ Building practical AI-powered applications, backend APIs, and RAG systems with P
 <p></p> </br>
 
 
-🛠️ <strong>Tech Stack</strong>
+<h3>🛠️ <strong>Tech Stack</strong></h3>
 
 Backend & AI
 
@@ -66,7 +66,7 @@ Frontend & Tools
 
 
 
-🤝 <strong>Connect With Me</strong>
+<h3>🤝 <strong>Connect With Me</strong></h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/daksh-prajapati-6106bb2bb/" target="_blank">
