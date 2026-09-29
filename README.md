@@ -28,9 +28,9 @@ Building practical AI-powered applications, backend APIs, and RAG systems with P
 
 🔭 Currently building DocuMind AI — a document Q&A application using RAG and citations
 
-💡 Interested in turning AI concepts into practical, user-focused applications
+💡 Interested in turning AI concepts into practical, user-focused applications <br>
 
-🛠️ Tech Stack
+🛠️ <strong>Tech Stack</strong>
 
 Backend & AI
 
@@ -60,27 +60,11 @@ Frontend & Tools
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-</p>
+</p> <br>
 
-🚀 Featured Project
 
-DocuMind AI
 
-An AI-powered document Q&A application focused on Retrieval-Augmented Generation (RAG).
-
-Focus areas:
-
-📄 Document-based question answering
-
-🔎 Semantic retrieval
-
-🤖 LLM-powered responses
-
-📚 Source citations for answers
-
-⚙️ Python backend and API development
-
-🤝 Connect With Me
+🤝 <strong>Connect With Me</strong>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/daksh-prajapati-6106bb2bb/" target="_blank">
@@ -91,5 +75,5 @@ Focus areas:
 📫 Email: daksh81558@gmail.com
 
 <p align="center">
-  <i>Building. Learning. Shipping.</i>
+  <i>Learning. Building. Shipping.</i>
 </p>
