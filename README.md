@@ -14,7 +14,8 @@ Building practical AI-powered applications, backend APIs, and RAG systems with P
   </a>
 </p>
 
-👨‍💻 <strong>About Me</strong>
+👨‍💻 <h4><strong>About Me</strong></h4>
+<hr>
 
 🐍 Focused on Python backend development and AI engineering
 
