@@ -15,8 +15,7 @@ Building practical AI-powered applications, backend APIs, and RAG systems with P
 </p>
 
 <h3><strong>👨‍💻 About Me</strong></h3>
-<hr>
-
+<hr style="border: none; height: 2px; background-color: #333;">
 🐍 Focused on Python backend development and AI engineering
 
 🤖 Building applications with LLMs, RAG, and AI-powered workflows
