@@ -28,8 +28,8 @@ Building practical AI-powered applications, backend APIs, and RAG systems with P
 
 🔭 Currently building DocuMind AI — a document Q&A application using RAG and citations
 
-💡 Interested in turning AI concepts into practical, user-focused applications <br>
-
+💡 Interested in turning AI concepts into practical, user-focused applications
+<br>
 🛠️ <strong>Tech Stack</strong>
 
 Backend & AI
